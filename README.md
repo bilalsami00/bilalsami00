@@ -21,34 +21,25 @@ I enjoy turning complex requirements into clean, maintainable interfaces and rel
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+### Frontend & UI
 
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat\&logo=javascript)
-![React](https://img.shields.io/badge/React-05122A?style=flat\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat\&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat\&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat\&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-05122A?style=flat\&logo=vite)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
+</p>
 
-### Backend & APIs
+### Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat\&logo=node.js)
-![REST API](https://img.shields.io/badge/REST_APIs-05122A?style=flat\&logo=fastapi)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### Database & Data
+### Development & Deployment
 
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat\&logo=mongodb)
-
-### UI & Development
-
-![Ant Design](https://img.shields.io/badge/Ant_Design-05122A?style=flat\&logo=ant-design)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat\&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat\&logo=vercel)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
 
 ---
 
